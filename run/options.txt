@@ -22,8 +22,8 @@ narrator:0
 particles:2
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:2
-simulationDistance:8
+renderDistance:10
+simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -75,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:false
@@ -121,7 +121,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-soundCategory_master:0.2119205298013245
+soundCategory_master:0.19536423841059603
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

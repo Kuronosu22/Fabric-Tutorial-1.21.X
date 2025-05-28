@@ -1,9 +1,24 @@
 {
   "item.tutorialmod.pink_garnet": "Pink Garnet",
   "item.tutorialmod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.tutorialmod.chisel": "Chisel",
+  "tooltip.tutorialmod.chisel": "Press §lShift§r to see this item description",
+  "tooltip.tutorialmod.chisel.shift": "This item chisels items into Bricks",
+  "item.tutorialmod.cauliflower": "Cauliflower",
+  "item.tutorialmod.copper_bucket": "Copper Bucket",
+  "item.tutorialmod.water_copper_bucket": "Water Copper Bucket",
+  "item.tutorialmod.lava_copper_bucket": "Lava Copper Bucket",
+  "item.tutorialmod.starlight_ashes": "Starlight Ashes",
 
   "block.tutorialmod.pink_garnet_block": "Block of Pink Garnet",
-  "block.tutorialmod.raw_pink_garnet_ore": "Raw Pink Garnet Ore",
+  "block.tutorialmod.raw_pink_garnet_block": "Raw Pink Garnet Block",
+  "block.tutorialmod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.tutorialmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
+  "tooltip.tutorialmod.magic_block": "This block is very, very §kX§r§9MAGICAL§r§kX§r",
 
-  "itemgroup.tutorialmod.pink_garnet_group": "Pink Garnet Group"
+  "itemgroup.tutorialmod.pink_garnet_group": "Pink Garnet Group",
+  "tooltip.tutorialmod.cauliflower": "This is delicious!"
+
+
 }
