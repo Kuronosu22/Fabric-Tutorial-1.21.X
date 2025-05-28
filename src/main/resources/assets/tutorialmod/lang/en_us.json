@@ -17,6 +17,16 @@
   "block.tutorialmod.magic_block": "Magic Block",
   "tooltip.tutorialmod.magic_block": "This block is very, very §kX§r§9MAGICAL§r§kX§r",
 
+  "block.tutorialmod.pink_garnet_stairs": "Pink Garnet Stairs",
+  "block.tutorialmod.pink_garnet_slab": "Pink Garnet Slab",
+  "block.tutorialmod.pink_garnet_button": "Pink Garnet Button",
+  "block.tutorialmod.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
+  "block.tutorialmod.pink_garnet_fence": "Pink Garnet Fence",
+  "block.tutorialmod.pink_garnet_fence_gate": "Pink Garnet Fence Gate",
+  "block.tutorialmod.pink_garnet_wall": "Pink Garnet Wall",
+  "block.tutorialmod.pink_garnet_door": "Pink Garnet Door",
+  "block.tutorialmod.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
+
   "itemgroup.tutorialmod.pink_garnet_group": "Pink Garnet Group",
   "tooltip.tutorialmod.cauliflower": "This is delicious!"
 

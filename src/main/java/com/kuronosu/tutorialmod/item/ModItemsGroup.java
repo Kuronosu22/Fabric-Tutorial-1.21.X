@@ -29,6 +29,15 @@ public class ModItemsGroup {
                         entries.add(ModItems.WATER_COPPER_BUCKET);
                         entries.add(ModItems.LAVA_COPPER_BUCKET);
                         entries.add(ModItems.STARLIGHT_ASHES);
+                        entries.add(ModBlocks.PINK_GARNET_STAIRS);
+                        entries.add(ModBlocks.PINK_GARNET_SLAB);
+                        entries.add(ModBlocks.PINK_GARNET_BUTTON);
+                        entries.add(ModBlocks.PINK_GARNET_PRESSURE_PLATE);
+                        entries.add(ModBlocks.PINK_GARNET_FENCE);
+                        entries.add(ModBlocks.PINK_GARNET_FENCE_GATE);
+                        entries.add(ModBlocks.PINK_GARNET_WALL);
+                        entries.add(ModBlocks.PINK_GARNET_DOOR);
+                        entries.add(ModBlocks.PINK_GARNET_TRAPDOOR);
                     }).build()
     );
 

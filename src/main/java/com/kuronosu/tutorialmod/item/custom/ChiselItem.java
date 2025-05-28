@@ -31,6 +31,7 @@ public class ChiselItem extends Item {
         CHISEL_LOOKUP.put(Blocks.END_STONE_BRICKS, Blocks.END_STONE);
         CHISEL_LOOKUP.put(Blocks.OAK_LOG, ModBlocks.PINK_GARNET_BLOCK);
         CHISEL_LOOKUP.put(Blocks.GOLD_BLOCK, Blocks.NETHERITE_BLOCK);
+        CHISEL_LOOKUP.put(ModBlocks.PINK_GARNET_BLOCK, ModBlocks.MAGIC_BLOCK);
     }
 
 

@@ -36,11 +36,13 @@ public class CopperBucketItem extends Item {
 
                 if (fluid == Fluids.WATER) {
                     world.setBlockState(pos, Blocks.AIR.getDefaultState());
+                    fluid.getBucketFillSound().ifPresent(sound -> user.playSound(sound, 1.0F, 1.0F));
                     return TypedActionResult.success(new ItemStack(ModItems.WATER_COPPER_BUCKET), world.isClient());
                 }
 
                 if (fluid == Fluids.LAVA) {
                     world.setBlockState(pos, Blocks.AIR.getDefaultState());
+                    fluid.getBucketFillSound().ifPresent(sound -> user.playSound(sound, 1.0F, 1.0F));
                     return TypedActionResult.success(new ItemStack(ModItems.LAVA_COPPER_BUCKET), world.isClient());
                 }
             }
